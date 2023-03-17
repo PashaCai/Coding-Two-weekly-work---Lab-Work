@@ -8,3 +8,13 @@ Two python jobs are also in the library, 1_python_numpy.ipynb and 2_python_Trans
 The second python job has more image processing results in the master branch, which may not be previewed due to the large file size. The minimalist version can be viewed directly in this library.
 
 All videos have been uploaded on PANOPTO， You can also choose to watch it here
+
+LINK TO PANOPTO
+
+Video_1_C++_boids:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11cfcdef-1f44-419a-a54d-afc600e8c418
+
+Video_2_C++ & Arduino:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3b6f5e65-3025-4ceb-b3bc-afc600e8c41a
+
+Video_3_Python_numpy:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b11851f8-ed22-44fb-93cb-afc600e8c418
+
+Video_4_Python_Tensorflow:https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0692e30c-eab2-417c-816c-afc600e8c421
